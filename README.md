@@ -1,26 +1,26 @@
-**# Global Ads Performance Analysis**
+# Global Ads Performance Analysis
 
 
 
-**## Business Questions**
+## Business Questions
 
 
 
-**## Dataset**
+## Dataset
 
 
 
-**## Tools**
+## Tools
 
 
 
-**## Data Cleaning**
+## Data Cleaning
 
 
 
-**## Findings**
+## Findings
 
 
 
-**## Limitations**
+## Limitations
 
