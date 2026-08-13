@@ -27,7 +27,9 @@
 
 
 ## Findings
-
+TikTok Ads delivers the lowest CPA (21.67) and the highest ROAS
+(7.62), while Google Ads — which absorbs 57% of total spend —
+performs worst on both metrics.
 
 
 ## Limitations
