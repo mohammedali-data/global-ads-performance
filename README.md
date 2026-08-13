@@ -35,6 +35,12 @@ Search leads on ROAS (5.31), but the spread across campaign types
 is narrow (4.58–5.31). Platform choice drives returns far more
 than campaign type does.
 
+Monthly CPA fluctuates within a narrow band (31.03–36.40) with no
+upward or downward trend across 2024. July is the most expensive
+month, driven by the year's lowest conversion volume rather than
+higher spend. There is no seasonality strong enough to justify
+shifting budget by month.
+
 ## Limitations
 - The dataset is synthetic, so findings describe the data, not real market behaviour.
 - Conversions are not split into new vs returning customers, so CPA cannot separate acquisition cost from repeat purchases.
