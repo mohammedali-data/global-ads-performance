@@ -9,11 +9,11 @@
 
 
 ## Dataset
-
+Global Ads Performance (Google, Meta, TikTok) — Kaggle, CC0. 1,800 campaign-level rows covering 2024 across three platforms, five countries, and six industries. The data is synthetically generated and does not reflect real campaigns.
 
 
 ## Tools
-
+Excel (pivot tables, metric validation), Tableau (dashboard).
 
 
 ## Data Cleaning
@@ -31,6 +31,11 @@ TikTok Ads delivers the lowest CPA (21.67) and the highest ROAS
 (7.62), while Google Ads — which absorbs 57% of total spend —
 performs worst on both metrics.
 
+Search leads on ROAS (5.31), but the spread across campaign types
+is narrow (4.58–5.31). Platform choice drives returns far more
+than campaign type does.
 
 ## Limitations
-
+- The dataset is synthetic, so findings describe the data, not real market behaviour.
+- Conversions are not split into new vs returning customers, so CPA cannot separate acquisition cost from repeat purchases.
+- Revenue is not profit; without margin data, a high ROAS does not guarantee profitability.
