@@ -45,3 +45,18 @@ shifting budget by month.
 - The dataset is synthetic, so findings describe the data, not real market behaviour.
 - Conversions are not split into new vs returning customers, so CPA cannot separate acquisition cost from repeat purchases.
 - Revenue is not profit; without margin data, a high ROAS does not guarantee profitability.
+
+## Dashboard
+
+![Global Ads Performance Analysis dashboard](images/dashboard.png)
+
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mohemmad.ali/viz/GlobalAdsPerformanceAnalysis_17872278597530/Dashboard1)
+
+Three views: monthly CPA across 2024, ROAS by campaign type, and CPA by platform.
+
+## Repository Structure
+
+- `data/` — raw dataset (Kaggle, CC0)
+- `analysis/` — Excel working file with pivot tables and metric validation
+- `dashboard/` — Tableau packaged workbook (.twbx)
+- `images/` — dashboard export
