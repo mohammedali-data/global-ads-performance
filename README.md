@@ -48,7 +48,7 @@ shifting budget by month.
 
 ## Dashboard
 
-![Global Ads Performance Analysis dashboard](images/dashboard.png)
+![Global Ads Performance Analysis dashboard](images/dashboard.png.png)
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mohemmad.ali/viz/GlobalAdsPerformanceAnalysis_17872278597530/Dashboard1)
 
